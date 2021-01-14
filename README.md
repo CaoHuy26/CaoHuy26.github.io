@@ -1,5 +1,7 @@
 # Hello Friend NG
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/daa1b02f-313b-493b-950b-7855e977ea73/deploy-status)](https://app.netlify.com/sites/caohuy26/deploys)
+
 ![Hello Friend NG](https://dsh.re/2bd45)
 
 ## General informations
